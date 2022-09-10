@@ -2,6 +2,7 @@
 
 
 1) Install a UNIX-based operating system.
+
 ![image_2022-09-09_18-42-36](https://user-images.githubusercontent.com/77497709/189483840-68ab93d0-fde5-4fe3-b2f8-77bc2149d44d.png)
 
 2) Install essential tools.
@@ -23,7 +24,7 @@
 
 ![image_2022-09-09_18-54-48](https://user-images.githubusercontent.com/77497709/189484248-2664cb1a-8b6f-45a3-86ea-c234b5f8a088.png)
 
-![image_2022-09-09_19-04-54 (2)](https://user-images.githubusercontent.com/77497709/189484254-0b3fbb3f-7a55-4b47-a5a4-af3e3b6a8210.png)
+![image_2022-09-09_19-04-54 (2)](https://user-images.githubusercontent.com/77497709/189484433-6211632c-6910-42c1-98c3-75486ad1c958.png)
 
 ![image_2022-09-09_19-04-54](https://user-images.githubusercontent.com/77497709/189484318-5b1123b9-291d-49e6-966a-5ddb2f476938.png)
 
