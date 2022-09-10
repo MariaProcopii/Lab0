@@ -20,11 +20,15 @@
 
 3) Create a Git repository.
 
+First of all I created a new git repository using `gh repo create`and renamed branch `master` to `main`
+
 ![image_2022-09-09_18-54-27](https://user-images.githubusercontent.com/77497709/189484242-a23d3f06-80ab-49ee-b5bf-1e5773766904.png)
 
+
+Used `git remote add` to create an entry in my git config, added a `README.md` file, created a branch 
 ![image_2022-09-09_18-54-48](https://user-images.githubusercontent.com/77497709/189484248-2664cb1a-8b6f-45a3-86ea-c234b5f8a088.png)
 
-![image_2022-09-09_18-54-48](https://user-images.githubusercontent.com/77497709/189484636-f206a4e4-7481-4687-949c-42a3ef6c73d2.png)
+![image_2022-09-09_19-04-54](https://user-images.githubusercontent.com/77497709/189493994-c8b495fb-7760-46d1-954d-5467fab9d9a5.png)
 
 ![image_2022-09-09_19-04-54](https://user-images.githubusercontent.com/77497709/189484318-5b1123b9-291d-49e6-966a-5ddb2f476938.png)
 
